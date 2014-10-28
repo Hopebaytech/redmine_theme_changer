@@ -1,4 +1,4 @@
-scrum
+redmien theme changer
 =====
 
 redmine theme changer plugin
